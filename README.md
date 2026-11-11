@@ -1,4 +1,4 @@
-# Deep Learning CA2
+# Image Generation and Reinforcement Learning
 
 Singapore Polytechnic coursework covering image generation and deep reinforcement learning.
 
